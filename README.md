@@ -1,5 +1,5 @@
-# WechatOnLinux
 分享一个在linux使用微信的方法。
+
 需要用到的工具，包括kvm windows虚拟机或任何能远程的windows机器，freerdp。
 
 先上demo
